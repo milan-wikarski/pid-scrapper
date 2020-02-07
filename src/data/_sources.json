@@ -1,0 +1,5 @@
+[
+  { "file": "routes.json", "source": "https://pid.cz/links.json" },
+  { "file": "points.json", "source": "https://pid.cz/points.json" },
+  { "file": "stops.json", "source": "https://pid.cz/stops.json" }
+]
